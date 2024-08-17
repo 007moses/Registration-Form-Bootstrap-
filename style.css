@@ -1,0 +1,11 @@
+:root {
+    --custom-color:darkslateblue;
+}
+
+.custom{
+    color:var(--custom-color);
+}
+
+.custom-bg{
+    background-color: var(--custom-color);
+}
